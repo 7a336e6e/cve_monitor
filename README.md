@@ -1,5 +1,5 @@
 # PoC for CVE monitor
-Quick and 'dirty' way to monitor new CVE PoCs found on Github.
+Quick and 'easy' way to monitor new CVE PoCs found on Github.
 No VPS needed. No Threat Intelligence subscription required. No API keys. Pretty much as free as it gets.
 
 >_might not satisfy all needs but it's better than nothing_
